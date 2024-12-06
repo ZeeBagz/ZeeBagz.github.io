@@ -26,12 +26,12 @@
         <div class="hero-content">
             <h2>Welcome to Zeebagz</h2>
             <p>Authentic West Coast grown cannabis at unbeatable prices. Pure, natural, and premium quality!</p>
-            <button>Start Exploring</button>
+            
         </div>
     </section>
 
-    <section class="about">
-        <h2>About Us</h2>
+
+        
         <p>At Zeebagz, we bring you the finest cannabis directly from the West Coast. Our products are grown with care and pride to deliver only the best quality at great prices.</p>
     </section>
 
